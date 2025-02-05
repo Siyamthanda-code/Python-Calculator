@@ -23,9 +23,9 @@ This calculator project provides a basic GUI calculator that performs arithmetic
 
 # Installation
 
-1. Clone the repository using git clone https://github.com/your-username/calculator-project.git
-2. Navigate to the project directory using cd calculator-project
-3. Run the calculator script using python calculator.py
+1. Clone the repository using git clone https://github.com/Siyamthanda-code/Python-Calculator.git
+2. Navigate to the project directory using cd python-calculator
+3. Run the calculator script using python main.py
 
 # Usage
 
