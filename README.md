@@ -6,18 +6,18 @@ A graphical user interface (GUI) calculator built with Tkinter, a Python library
 This calculator project provides a comprehensive GUI calculator that performs arithmetic operations, trigonometric functions, and other mathematical calculations. It's designed to be user-friendly and efficient.
 
 # Features
-## Basic Arithmetic Operations:
-- Addition (+)
-- Subtraction (-)
-- Multiplication (×)
-- Division (÷)
-- Percentage calculation (%)
-- Negation (±)
+#### Basic Arithmetic Operations:
+    - Addition (+)
+    - Subtraction (-)
+    - Multiplication (×)
+    - Division (÷)
+    - Percentage calculation (%)
+    - Negation (±)
 - Clearing the input field (C)
 - Equal button (=) to evaluate expressions
 
 # Scientific Features
-## Trigonometric functions:
+#### Trigonometric functions:
     - Sine (sin)
     - Cosine (cos)
     - Tangent (tan)
