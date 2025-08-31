@@ -46,6 +46,8 @@ This calculator project provides a comprehensive GUI calculator that performs ar
 3. Use the "C" button to clear the input field.
 4. Use the "=" button to evaluate the expression.
 
+![Calculator Screenshot](Thon%20Cal.PNG)
+
 # Troubleshooting
 - If you encounter any issues, ensure that you have Python and Tkinter installed.
 - Check the console output for any error messages.
