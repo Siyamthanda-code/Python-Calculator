@@ -2,6 +2,8 @@
 
 A graphical user interface (GUI) calculator built with Tkinter, a Python library, featuring basic arithmetic operations and scientific functions.
 
+![Calculator Screenshot](Py Cal.PNG)
+
 # Introduction
 This calculator project provides a comprehensive GUI calculator that performs arithmetic operations, trigonometric functions, and other mathematical calculations. It's designed to be user-friendly and efficient.
 
